@@ -1,0 +1,62 @@
+/*
+font-family: 'Roboto', sans-serif;
+*/
+
+.introdución {
+    display: flex;
+}
+
+h1 {
+    border: 2px solid red;
+    padding: 0,5px;
+    margin-top: 2px;
+    margin-bottom: 0px;
+    font-size: 45px;
+}
+
+h3 {
+    margin-top: 2px;
+    margin-bottom: 6px;
+    font-size: 25px;
+}
+
+#p1 {
+    margin-top: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 20px;
+} 
+
+#p2 {
+    margin-top: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 20px;
+} 
+
+.final {
+    display: flex;
+}
+
+#p3 {
+    margin-left: 5px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+#lista {
+    font-size: 20px;
+    margin-left: 0px;
+    padding-left: 30px;
+    margin-bottom: 5px;
+}
+
+#p4 {
+    margin-left: 40px;
+    font-size: 20px;
+}
+
+#lista2 {
+    font-size: 20px;
+    margin-left: 25px;
+}
